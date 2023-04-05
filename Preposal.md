@@ -16,7 +16,7 @@ human benchmark
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Alone
+Just me
 
 
 ## Do you have any questions of your own?
