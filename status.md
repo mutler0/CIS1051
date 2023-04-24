@@ -22,7 +22,7 @@ I have planned out what I have to do and gave myself a schedule. Tried to start 
 
 #### What have you not done for your project yet?
 
-The disappearing aspect as well as the rigged portion.
+The disappearing aspect of the numbers as well as the rigged portion.
 
 #### What problems, if any, have you encountered?
 
