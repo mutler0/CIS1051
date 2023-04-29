@@ -26,4 +26,4 @@ The disappearing aspect of the numbers as well as the rigged portion.
 
 #### What problems, if any, have you encountered?
 
-It was difficult to materialize what I had in my head mainly where I wanted to have the numbers but also when I wanted them to disappear. 
+It was difficult to materialize what I had in my head mainly where I wanted to have the numbers so they don't overlap but also when I wanted them to disappear. 
