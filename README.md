@@ -13,17 +13,17 @@ Difficulties overcame:
       5. skipping number/buttons
   - clicking the number/buttons in order
   - lives and amount variable
-        - reseting the display when lives decrements or amount increments (kind of)
-              - the amount still increments even if a life decrements
+    - reseting the display when lives decrements or amount increments (kind of)
+      - the amount still increments even if a life decrements
   - game over
 
 Difficulties that still remain difficult:
   - the 'trial run' before it actually begins (1-4)
   - flipping or changing the colors of the buttons once one is clicked
-        - this was beyond anything I knew or could research
+    - this was beyond anything I knew or could research
         - didn't know how to change the color of all the buttons after they have been placed on the screen
   - reseting the int(self.text) 
-        - outside of the class fucniton was impossible even with a variable and I had no idea how to do it inside the class 
+    - outside of the class fucniton was impossible even with a variable and I had no idea how to do it inside the class 
         - this was so that when the display reset becuase of the lives or the amount was reached, it would start back at 1 instead of continuing to count             up from the last number
   - buttons still generate random positons randomly after 1 life is lost.
  
